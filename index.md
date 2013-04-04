@@ -1,5 +1,7 @@
 # My favourite colours
 
-My favourite colours are dog, cat and piglet!
+There are many colours in the world.
 
-Another update.
+Some examples are blue, red, yellow and green.
+
+My favourite colours are dog, cat and piglet!
